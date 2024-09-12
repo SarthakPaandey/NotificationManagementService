@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512411420211",
+    "project_id": "rbuy-b88dd",
+    "storage_bucket": "rbuy-b88dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512411420211:android:0b172f6e7731daccfa8546",
+        "android_client_info": {
+          "package_name": "com.rbuy.ap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhzqHE94OmOe62MRJrCKzFFioM-jCbdH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
